@@ -9,3 +9,5 @@
     document.write(result);
 }
 calcDistance() */
+
+//the calcDistance initializes 4 variable. With those, I replace in the result variable to make an operation that calculates the distance between two points.

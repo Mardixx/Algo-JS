@@ -28,3 +28,5 @@ function calcSurface(a, b) {
     return a * b;
 }
 document.write("Surface Area: " + calcSurface(width, length)); */
+
+//I created two variables: width and length. They both replaced a and be in the calcSurface function that mumtiplies them to calculate the surface.
